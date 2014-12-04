@@ -21,7 +21,7 @@ public class Card implements Comparable
       this.suit = suit;
    } 
    
-   public int getSuit()
+   public int getSuit() // get suit
    {
       return suit;
    }
